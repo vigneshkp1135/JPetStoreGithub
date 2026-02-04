@@ -1,0 +1,36 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1768286919186,1185,01 Open url,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,5664,523,1,1,null,0,49,985
+1768286919232,1185,01Open url,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,5664,523,1,1,https://petstore.octoperf.com/actions/Catalog.action,1185,0,985
+1768286920420,195,02 Category,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,4212,628,1,1,null,0,1,0
+1768286920420,195,Click on Category,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,4212,628,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS,195,0,0
+1768286920617,197,03 Product id,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,4138,660,1,1,null,0,5544,0
+1768286926161,197,Click om Product id,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,4138,660,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=K9-DL-01,197,0,0
+1768286926359,198,04 Add to cart,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,4683,663,1,1,null,0,5631,0
+1768286931990,198,Click on Add to cart,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,4683,663,1,1,https://petstore.octoperf.com/actions/Cart.action?addItemToCart=&workingItemId=EST-10,197,0,0
+1768286932189,197,05 Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,4222,646,1,1,null,0,5314,0
+1768286937501,197,Click on Checkout,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,4222,646,1,1,https://petstore.octoperf.com/actions/Order.action?newOrderForm=null,197,0,0
+1768286937699,740,01 Open url,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,4973,576,1,1,null,0,3,557
+1768286937701,740,01Open url,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,4973,576,1,1,https://petstore.octoperf.com/actions/Catalog.action,740,0,557
+1768286938442,184,02 Category,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,3666,629,1,1,null,0,1,0
+1768286938442,184,Click on Category,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,3666,629,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS,184,0,0
+1768286938627,185,03 Product id,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,3837,660,1,1,null,0,5484,0
+1768286944111,185,Click om Product id,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,3837,660,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=AV-CB-01,185,0,0
+1768286944297,194,04 Add to cart,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,5106,663,1,1,null,0,5625,0
+1768286949922,194,Click on Add to cart,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,5106,663,1,1,https://petstore.octoperf.com/actions/Cart.action?addItemToCart=&workingItemId=EST-18,194,0,0
+1768286950116,2232,05 Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,4224,646,1,1,null,0,5318,0
+1768286955434,2232,Click on Checkout,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,4224,646,1,1,https://petstore.octoperf.com/actions/Order.action?newOrderForm=null,2047,0,0
+1768286957666,6342,01 Open url,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,4973,576,1,1,null,0,2,4693
+1768286957667,6342,01Open url,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,4973,576,1,1,https://petstore.octoperf.com/actions/Catalog.action,6145,0,4693
+1768286964010,200,02 Category,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,4212,628,1,1,null,0,1,0
+1768286964010,200,Click on Category,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,4212,628,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS,200,0,0
+1768286964211,1496,03 Product id,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,4112,660,1,1,null,0,5512,0
+1768286969722,1496,Click om Product id,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,4112,660,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=K9-BD-01,1496,0,0
+1768286971219,2306,04 Add to cart,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,5518,662,1,1,null,0,5621,0
+1768286976840,2306,Click on Add to cart,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,5518,662,1,1,https://petstore.octoperf.com/actions/Cart.action?addItemToCart=&workingItemId=EST-7,2107,0,0
+1768286979146,402,05 Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,4224,646,1,1,null,0,5307,0
+1768286984452,402,Click on Checkout,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,4224,646,1,1,https://petstore.octoperf.com/actions/Order.action?newOrderForm=null,402,0,0
+1768286984854,2687,01 Open url,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,4973,576,1,1,null,0,1,1593
+1768286984855,2687,01Open url,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,4973,576,1,1,https://petstore.octoperf.com/actions/Catalog.action,2687,0,1593
+1768286987542,193,02 Category,200,"Number of samples in transaction : 1, number of failing samples : 0",Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,3662,628,1,1,null,0,2,0
+1768286987543,193,Click on Category,200,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,text,true,,3662,628,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS,193,0,0
+1768286987737,0,03 Product id,,,Scenario 2 - Checkout - jp@gc - Ultimate Thread Group 1-1,,true,,0,0,1,1,null,0,0,0
